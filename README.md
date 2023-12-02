@@ -16,7 +16,7 @@
 - 🎴 Discord: Caio Natsune#6503
 
 # *_If you need any help, feel free to contact me via Discord. <br/>
-# *_I will help you in any way I can!_*
+## *_I will help you in any way I can!_*
   
 ![5b4202d50679704f184b06637f5999f8 (1)](https://github.com/SonicSpace/SonicSpace/assets/88670125/ef3e7ed1-89c0-4cf2-a2f8-3a2cc82ba76a) 
 
