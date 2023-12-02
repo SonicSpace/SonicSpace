@@ -1,5 +1,5 @@
 ![anime-chibi](https://github.com/SonicSpace/SonicSpace/assets/88670125/58af4ae3-0452-414c-8eb2-efb54664810b) 
-![tumblr_24c0179beba2e4fc34a07cea0fa96417_24308ced_640](https://github.com/SonicSpace/SonicSpace/assets/88670125/da2e940b-a8c2-4eda-b6ad-55e9e5301a5f)
+![anime-chibikki](https://github.com/SonicSpace/SonicSpace/assets/88670125/3a2539b8-503c-4726-a4ac-7a3f4b58c4e7)
 ### 🌆 This is my Github of personal works! 
 ### Especially if you like Sonic Mods 🌆
 19y ⛩ .allow me to intervene 
