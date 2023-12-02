@@ -10,9 +10,9 @@
 ![concord](https://github.com/SonicSpace/SonicSpace/assets/88670125/49f3da4d-daaa-4bcf-b55b-ef84abcf1abe) 
 
 ### 🀄️ Follow me on Social Media 🀄️
-- 🐦 Twitter: https://twitter.com/CaioNatsune
-- 🔺 Youtube: https://youtube.com/@CaioNatsune
-- 🍌 GameBanana: https://gamebanana.com/members/1872963
+- 🐦 ![Twitter](https://twitter.com/CaioNatsune)
+- 🔺 ![Youtube](https://youtube.com/@CaioNatsune)
+- 🍌 ![GameBanana](https://gamebanana.com/members/1872963)
 - 🎴 Discord: Caio Natsune#6503
   
 ![5b4202d50679704f184b06637f5999f8 (1)](https://github.com/SonicSpace/SonicSpace/assets/88670125/ef3e7ed1-89c0-4cf2-a2f8-3a2cc82ba76a) 
