@@ -1,9 +1,11 @@
 ### This is my Github of personal works! 
 ### Especially if you like Sonic Mods 🌆
 19y ⛩ .allow me to intervene 
-- ✪ .Main´s ~ Neuvillette - ✪ .Sonic Modder - ✪ .Ex Sonic-Tuber .Genshin Player
-- ✪ Unity  - ✪ HE1 & 2 - ✪ CriWare - ✪ VS Code - ✪ JSON - ✪ GitHub
-- ✪ HedgeModManager
+.Main´s ~ Neuvillette 
+.Genshin Player
+- | ✪ .Sonic Modder - | ✪ .Ex Sonic-Tuber - | ✪ Unity
+- | ✪ HE1 & 2 - | ✪ CriWare - | ✪ VS Code - | ✪ JSON
+- | ✪ GitHub - | ✪ HedgeModManager
 
 ### Follow me on Social Media
 - 🐦 Twitter: https://twitter.com/CaioNatsune
