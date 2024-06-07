@@ -1,4 +1,4 @@
-## Encryption USM Files for Sonic Superstars
+# Encryption USM Files for Sonic Superstars
 
 [![Version](https://img.shields.io/badge/Sonic%20Modding-e2a754)](https://gamebanana.com/games/18552) [![Version](https://img.shields.io/badge/Python-Guide-blue)]()
 
